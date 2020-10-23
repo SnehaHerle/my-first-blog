@@ -10,15 +10,15 @@ You should have Python, Django and git installed in your machine.
 # Setup And Deployment
 1. To Get Started, Fork this repository to your GitHub account.
 
-1. Clone the forked repo from your account using:
+2. Clone the forked repo from your account using:
 
 `git clone https://github.com/<your-username>/my-first-blog.git`
 
-1. Open a new window of the terminal and change the directory to client:
+3. Open a new window of the terminal and change the directory to client:
 
 `python manage.py runserver`
 
-1. Now the server would have started at port 8000 and the browser would have rendered it.
+4. Now the server would have started at port 8000 and the browser would have rendered it.
 
 Feel free to explore the features and implement new features.
 
