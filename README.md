@@ -8,7 +8,7 @@ A basic Django quiz app with SQLite as the database. It has an admin site and a 
 You should have Python, Django and git installed in your machine.
 
 # Setup And Deployment
-1. To Get Started, Fork this repository to your GitHub account.
+1. To Get Started, fork this repository to your GitHub account.
 
 2. Clone the forked repo from your account using:
 
